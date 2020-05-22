@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41579" started-at="2020-05-13T14:15:55Z" finished-at="2020-05-13T14:16:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41579" started-at="2020-05-13T14:15:55Z" finished-at="2020-05-13T14:16:36Z">
+      <class name="drivers_Factory.TestingScript">
+        <test-method status="PASS" signature="setup()[pri:0, instance:drivers_Factory.TestingScript@3234e239]" name="setup" is-config="true" duration-ms="8506" started-at="2020-05-13T14:15:55Z" finished-at="2020-05-13T14:16:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="startingtest()[pri:0, instance:drivers_Factory.TestingScript@3234e239]" name="startingtest" duration-ms="29291" started-at="2020-05-13T14:16:03Z" finished-at="2020-05-13T14:16:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startingtest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:drivers_Factory.TestingScript@3234e239]" name="teardown" is-config="true" duration-ms="3762" started-at="2020-05-13T14:16:33Z" finished-at="2020-05-13T14:16:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- drivers_Factory.TestingScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
